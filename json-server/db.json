@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "learning javascript",
+      "author": "stephen"
+    }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "title": "star wars"
+    },
+    {
+      "id": 2,
+      "title": "indiana jones"
+    },
+    {
+      "title": "blade runner",
+      "id": 3
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
