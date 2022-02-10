@@ -1,0 +1,6 @@
+<h1>All the rooms</h1>
+{{#each rooms}}
+	<h3>{{name}}</h3>
+	<h3>{{price}}</h3>
+	<a href="/rooms/{{_id}}/delete">🗑 Delete this room</a>
+{{/each}}
